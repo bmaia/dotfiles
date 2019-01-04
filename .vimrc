@@ -6,4 +6,3 @@ set showmatch
 set ignorecase
 set smartcase
 set incsearch
-set compatible
